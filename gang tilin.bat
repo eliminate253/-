@@ -8,7 +8,7 @@ echo  $$        $$  $$    $$   $$   $$  $$    $$        $$    $$  $$    $$      
 echo  $$        $$  $$    $$    $$ $$   $$$$$$$$        $$$$$$$$  $$    $$  /$$$$$$$
 echo  $$        $$  $$    $$     $$$    $$              $$        $$    $$  $$    $$
 echo  $$        $$   $$$$$$/      $      $$$$$$$         $$$$$$$  $$    $$   $$$$$$$
-echo                                 by insane 
+echo                                 by eliminate
 echo
 echo .    1 [+] temp mail                        6 [+] geotool
 echo
